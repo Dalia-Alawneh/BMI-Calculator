@@ -20,5 +20,5 @@ This is a small video showing the functionality of my app
 
 
 
-https://user-images.githubusercontent.com/87895739/188210210-181ccc9a-54c1-4f8b-b21f-8e580260ab56.mp4
+https://user-images.githubusercontent.com/87895739/188210551-e27efc43-60ed-46fd-845e-cb1d7a469e8e.mp4
 
