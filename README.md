@@ -17,5 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 This is a small video showing the functionality of my app
 
-https://user-images.githubusercontent.com/87895739/188207645-3d78944c-f6ea-456c-913b-c246d14b1a0e.mp4
+
+https://user-images.githubusercontent.com/87895739/188208870-5a2e87bf-c310-4584-8c9e-ca1c0ffe0deb.mp4
 
